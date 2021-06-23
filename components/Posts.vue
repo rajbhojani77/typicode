@@ -1,7 +1,7 @@
 <template>
   <div>
     <h2>Posts</h2>
-    <div>
+    <div id="postlist">
       <post :postData="post" v-for="(post, index) in postsData"></post>
     </div>
   </div>

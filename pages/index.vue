@@ -9,7 +9,7 @@
         <b-input-group prepend="UserId" class="mt-3">
           <b-form-input v-model="userId"></b-form-input>
           <b-input-group-append>
-            <b-button variant="outline-success" @click="login">Button</b-button>
+            <b-button variant="outline-success" @click="login">submit</b-button>
           </b-input-group-append>
         </b-input-group>
       </div>
