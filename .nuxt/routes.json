@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/raj/Documents/typicode/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1481a2c6"
+  },
+  {
+    "name": "id",
+    "path": "/:id",
+    "component": "/home/raj/Documents/typicode/pages/_id/index.vue",
+    "chunkName": "pages/_id/index",
+    "_name": "_05f5b308"
+  }
+]

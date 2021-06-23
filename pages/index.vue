@@ -19,6 +19,7 @@
 
 <script>
 export default {
+    middleware: 'notAuthenticated',
   data() {
     return {
       Loading: false,

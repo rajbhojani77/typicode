@@ -31,6 +31,7 @@ import Posts from "@/components/Posts";
 import axios from "axios";
 
 export default {
+  middleware: 'authenticated',
   components: {
     Posts
   },
